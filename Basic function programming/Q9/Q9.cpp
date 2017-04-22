@@ -11,7 +11,6 @@ int main()
     return 0;
 }
 
-/* 你的代码将被嵌在这里 */
 void Print_Factorial ( const int N ){
 	int fac[2568]={0};
 	int temp=0,n=0,k=1;
