@@ -27,8 +27,8 @@ void Print_Factorial ( const int N ){
     for(int i=k-1;i>=0;i--){
     	if(N>=0&&N<=1000)
     	    printf("%d",fac[i]);
-	    else
-	        printf("Invaild input");
+	else
+	    printf("Invaild input");
 
 	}	
 } 
