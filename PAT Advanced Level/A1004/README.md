@@ -1,6 +1,6 @@
 # 1004. Counting Leaves (30)
 
-##　题目
+## 题目
 
 A family hierarchy is usually presented by a pedigree tree. Your job is to count those family members who have no child.
 Input
