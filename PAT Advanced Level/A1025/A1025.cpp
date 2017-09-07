@@ -23,7 +23,8 @@ int main() {
 	stu s[30002];
 	int n, k, num = 0;
 	cin >> n;
-	for (int i = 0;i < n;i++) {
+	
+        for (int i = 0;i < n;i++) {
 		cin >> k;
 		for (int j = 0;j < k;j++) {
 			scanf("%s%d", &s[num].no, &s[num].grade);
